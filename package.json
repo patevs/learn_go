@@ -1,24 +1,21 @@
 {
-  "name": "node-template",
-  "version": "1.12.2",
-  "description": "Repository Template for NodeJS Projects",
+  "name": "learn_go",
+  "version": "0.0.0",
+  "description": "Links, resources, and code related to my learning of the Go programming language",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/node-template.git"
+    "url": "git+https://github.com/patevs/learn_go.git"
   },
   "scripts": {
-    "updates": "script-progress node ./bin/checkUpdates",
     "release": "np"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
-    "chalk": "^4.1.0",
     "commitlint-config-gitmoji": "^1.0.1",
     "husky": "^4.3.0",
-    "np": "^6.5.0",
-    "script-progress": "^1.0.5"
+    "np": "^6.5.0"
   },
   "commitlint": {
     "extends": [
