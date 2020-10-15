@@ -2,6 +2,8 @@
  *  src/main.go
  */
 
+// source: https://golangcode.com/print-the-current-memory-usage/
+
 package main
 
 import (
