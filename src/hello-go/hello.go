@@ -1,5 +1,5 @@
 /*
- *  src/hello.go
+ *  src/hello-go/hello.go
  */
 
 package main
