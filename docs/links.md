@@ -2,6 +2,10 @@
 
 ---
 
+* [`learngo`](https://github.com/inancgumus/learngo) 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
+
+[](.)
+
 * [`awesome-go`](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software.
   * [awesome-go.com](https://awesome-go.com/)
 
