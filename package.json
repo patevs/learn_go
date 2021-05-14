@@ -19,8 +19,10 @@
   },
   "commitlint": {
     "extends": [
-      "./node_modules/commitlint-config-gitmoji"
-    ]
+      "gitmoji"
+    ],
+    "subject-empty": [0, "never"],
+    "type-empty": [0, "never"]
   },
   "husky": {
     "hooks": {
