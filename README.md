@@ -18,13 +18,14 @@
 
 ```md
 .
+├── docs                # `husky` configuration
 ├── docs                # Documentation
 │   └── links.md        # Links & resources
 ├── .editorconfig       # Editor configuration
-├── .gitignore          # Git ignore rules
-├── .np-config.json     # NPM publish (np) configuration
+├── .gitignore          # `git` ignore rules
+├── .np-config.json     # `npm` publish (`np`) configuration
 ├── LICENSE             # Project LICENSE
-├── package.json        # NPM package configuration
+├── package.json        # `npm` package configuration
 └── README.md           # Project README
 ```
 
