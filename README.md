@@ -21,6 +21,7 @@
 ├── .husky              # Husky configuration
 ├── docs                # Documentation
 │   └── links.md        # Links & resources
+├── .commitlintrc       # Commitlint configuration
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
 ├── .np-config.json     # NPM publish (np) configuration
